@@ -2,7 +2,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## steps
 clone the repo in your local computer, then install npm.
-run on the command line - 1.npm init  2. npm start
+run on the command line - 
+1. start the json server using json-server --watch db.json
+2. npm init  
+3. npm start
+
 
 ## Available Scripts
 
